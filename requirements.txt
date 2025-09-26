@@ -1,0 +1,10 @@
+Flask
+SQLAlchemy
+opencv-python
+numpy
+pillow
+python-dotenv
+cryptography
+gunicorn
+pytest
+liboqs-python
